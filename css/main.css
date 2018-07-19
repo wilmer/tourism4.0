@@ -44,14 +44,14 @@ body{
 }
 .semilla{
 	height: 250px;
-	background:url(../img/semilla.jpg);
+	background:url(../img/Cathedral.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 	transition: all 0.8s ease-in;
 }
 .semilla:hover{
-	background:url(../img/semilla3.jpg);
+	background:url(../img/Idea.PNG);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
